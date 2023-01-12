@@ -1,0 +1,40 @@
+1. Be comfortable with an Operating system
+- Windows 
+- Linux
+  - Ability to deploy applications using bth OSes
+  - Use of command line
+  - Linux command and windows powershell
+  - Inbuild firewall on the server - open and close ports
+  
+2. Network Protocols and Basic networking
+- Helps while deploying applications
+- IP addressing, DNS resolutions
+- HTTP, HTTPS
+- SSH
+- SSL
+
+3. Understanding Infrastructure
+Provision:
+- Physical servers
+- Virtual machines - Learn virtualization
+- Containers - docker, Kubernetes
+- Cloud infrascrture - AWS, Azure, Google
+
+4. Infractructure and code and Configuration Management Tools
+- Terraform
+- Cloud formation
+- Ansible
+- Chef, Puppet
+
+5. CI/CD tools
+- Git, Github
+- Gitlab
+- Jenkins
+- Cloud Pipelines - AWS Pipelines, Azure Pipelines
+
+6. Monitoring tools
+- Application Monitoring - Prometheus, Grafana, zabbix, Nagios etc
+- Infrastructure monitoring - NewRelic
+
+7. Infrastructure design
+- High availability
